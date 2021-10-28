@@ -1,6 +1,5 @@
 import random
 
-
 def main():
   dice_rolls = 2
   dice_sum = 0
